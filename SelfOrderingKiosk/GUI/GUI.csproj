@@ -1,0 +1,95 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>C:\tfs\SelfOrderingKiosk\GUI\GUI.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\appleJuice.jpg" />
+    <None Remove="Images\bigmac.jpg" />
+    <None Remove="Images\bigmak.jpg" />
+    <None Remove="Images\cash2.jpg" />
+    <None Remove="Images\cheeseburger.jpg" />
+    <None Remove="Images\chikker.jpg" />
+    <None Remove="Images\drink.jpg" />
+    <None Remove="Images\fries.jpg" />
+    <None Remove="Images\hamburger.jpg" />
+    <None Remove="Images\jalapenoburger.jpg" />
+    <None Remove="Images\juice.jpg" />
+    <None Remove="Images\karta.png" />
+    <None Remove="Images\maestroBaconCheddar.jpg" />
+    <None Remove="Images\maestroClassic.jpg" />
+    <None Remove="Images\maestroGrilledCheese.png" />
+    <None Remove="Images\mcchicken.jpg" />
+    <None Remove="Images\mcdouble.jpg" />
+    <None Remove="Images\mcroyal.jpg" />
+    <None Remove="Images\mcroyalDouble.jpg" />
+    <None Remove="Images\mcroyalDoubleSpicy.jpg" />
+    <None Remove="Images\orangeJuice.jpg" />
+    <None Remove="Images\water.jpg" />
+    <None Remove="Images\wiesmac.jpg" />
+    <None Remove="Images\wiesmakDouble.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\appleJuice.jpg" />
+    <Resource Include="Images\bigmac.jpg" />
+    <Resource Include="Images\cash2.jpg" />
+    <Resource Include="Images\cheeseburger.jpg" />
+    <Resource Include="Images\chikker.jpg" />
+    <Resource Include="Images\drink.jpg" />
+    <Resource Include="Images\fries.jpg" />
+    <Resource Include="Images\hamburger.jpg" />
+    <Resource Include="Images\jalapenoburger.jpg" />
+    <Resource Include="Images\karta.png" />
+    <Resource Include="Images\maestroBaconCheddar.jpg" />
+    <Resource Include="Images\maestroClassic.jpg" />
+    <Resource Include="Images\maestroGrilledCheese.png" />
+    <Resource Include="Images\mcchicken.jpg" />
+    <Resource Include="Images\mcdouble.jpg" />
+    <Resource Include="Images\mcroyal.jpg" />
+    <Resource Include="Images\mcroyalDouble.jpg" />
+    <Resource Include="Images\mcroyalDoubleSpicy.jpg" />
+    <Resource Include="Images\orangeJuice.jpg" />
+    <Resource Include="Images\water.jpg" />
+    <Resource Include="Images\wiesmac.jpg" />
+    <Resource Include="Images\wiesmakDouble.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EntityFramework" Version="6.4.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Properties\Settings.Designer.cs">
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+
+</Project>

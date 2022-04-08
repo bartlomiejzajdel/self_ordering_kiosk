@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GUI", "GUI\GUI.csproj", "{601D0FDF-8173-4EE8-BCEB-E793B0957F4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{6A77C179-85F4-44CB-BECD-85AE3C2FA749}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{8B8963A5-3B98-44C3-A9BA-532F43AEE303}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601D0FDF-8173-4EE8-BCEB-E793B0957F4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{601D0FDF-8173-4EE8-BCEB-E793B0957F4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{601D0FDF-8173-4EE8-BCEB-E793B0957F4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{601D0FDF-8173-4EE8-BCEB-E793B0957F4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A77C179-85F4-44CB-BECD-85AE3C2FA749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A77C179-85F4-44CB-BECD-85AE3C2FA749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A77C179-85F4-44CB-BECD-85AE3C2FA749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A77C179-85F4-44CB-BECD-85AE3C2FA749}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B8963A5-3B98-44C3-A9BA-532F43AEE303}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B8963A5-3B98-44C3-A9BA-532F43AEE303}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B8963A5-3B98-44C3-A9BA-532F43AEE303}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B8963A5-3B98-44C3-A9BA-532F43AEE303}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FEE9C998-CE53-4AF2-A583-AE529A91BAAE}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/mtpdev0640
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GUI\\GUI.csproj
+		SccProjectName1 = GUI
+		SccLocalPath1 = GUI
+		SccProjectUniqueName2 = DataAccess\\DataAccess.csproj
+		SccProjectName2 = DataAccess
+		SccLocalPath2 = DataAccess
+		SccProjectUniqueName3 = UnitTests\\UnitTests.csproj
+		SccProjectName3 = UnitTests
+		SccLocalPath3 = UnitTests
+	EndGlobalSection
+EndGlobal
