@@ -34,19 +34,4 @@ Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FEE9C998-CE53-4AF2-A583-AE529A91BAAE}
 	EndGlobalSection
-	GlobalSection(TeamFoundationVersionControl) = preSolution
-		SccNumberOfProjects = 4
-		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
-		SccTeamFoundationServer = https://dev.azure.com/mtpdev0640
-		SccLocalPath0 = .
-		SccProjectUniqueName1 = GUI\\GUI.csproj
-		SccProjectName1 = GUI
-		SccLocalPath1 = GUI
-		SccProjectUniqueName2 = DataAccess\\DataAccess.csproj
-		SccProjectName2 = DataAccess
-		SccLocalPath2 = DataAccess
-		SccProjectUniqueName3 = UnitTests\\UnitTests.csproj
-		SccProjectName3 = UnitTests
-		SccLocalPath3 = UnitTests
-	EndGlobalSection
 EndGlobal
