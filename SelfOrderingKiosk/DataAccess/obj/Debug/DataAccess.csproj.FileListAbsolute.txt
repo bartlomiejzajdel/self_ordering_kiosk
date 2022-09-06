@@ -1,0 +1,13 @@
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\DataAccess.xml
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GUI</name>
+    </assembly>
+    <members>
+        <member name="T:GUI.App">
+            <summary>
+            Interaction logic for App.xaml
+            </summary>
+            <summary>
+            App
+            </summary>
+        </member>
+        <member name="M:GUI.App.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="M:GUI.App.Main">
+            <summary>
+            Application Entry Point.
+            </summary>
+        </member>
+        <member name="T:GUI.MainWindow">
+            <summary>
+            Interaction logic for MainWindow.xaml
+            </summary>
+            <summary>
+            MainWindow
+            </summary>
+        </member>
+        <member name="M:GUI.MainWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUI.PaymentWindow">
+            <summary>
+            Interaction logic for PaymentWindow.xaml
+            </summary>
+            <summary>
+            PaymentWindow
+            </summary>
+        </member>
+        <member name="M:GUI.PaymentWindow.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUI.Views.BurgerView">
+            <summary>
+            Interaction logic for BurgerView.xaml
+            </summary>
+            <summary>
+            BurgerView
+            </summary>
+        </member>
+        <member name="M:GUI.Views.BurgerView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUI.Views.DrinksView">
+            <summary>
+            Interaction logic for DrinksView.xaml
+            </summary>
+            <summary>
+            DrinksView
+            </summary>
+        </member>
+        <member name="M:GUI.Views.DrinksView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUI.Views.FriesView">
+            <summary>
+            Interaction logic for FriesView.xaml
+            </summary>
+            <summary>
+            FriesView
+            </summary>
+        </member>
+        <member name="M:GUI.Views.FriesView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:GUI.Views.OrderView">
+            <summary>
+            Interaction logic for OrderView.xaml
+            </summary>
+            <summary>
+            OrderView
+            </summary>
+        </member>
+        <member name="M:GUI.Views.OrderView.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+    </members>
+</doc>

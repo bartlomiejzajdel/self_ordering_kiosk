@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
+        "projectName": "GUI",
+        "projectPath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
+        "packagesPath": "C:\\Users\\bartlomiej\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bartlomiej\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
