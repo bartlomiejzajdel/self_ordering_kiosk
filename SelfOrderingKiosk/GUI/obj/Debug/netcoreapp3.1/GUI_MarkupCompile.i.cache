@@ -1,5 +1,5 @@
 ﻿GUI
-
+1.0.0.0
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
 C:\Users\bartlomiej\source\repos\Kiosk\SelfOrderingKiosk\GUI\App.xaml
 6-1501729013
 
-14-980547335
+161793697331
 1961415270793
 MainWindow.xaml;PaymentWindow.xaml;Views\BurgerView.xaml;Views\DrinksView.xaml;Views\FriesView.xaml;Views\OrderView.xaml;
 

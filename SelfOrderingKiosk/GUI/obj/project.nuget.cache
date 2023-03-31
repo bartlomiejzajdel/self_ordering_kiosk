@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zsnOpY++RKpbNtl5iYhlBx30ZAcW+f/yvNnNkS3+scOkqhtTIWsySP9UjySjA/4FyWEAA1sRSOMGpfozlNCyxg==",
+  "dgSpecHash": "LHU9b+geMCHZ9A+RC0tJdfqn2wzLaLsvMKY4AuZIOqfzxbYcltcvRaJrfMbugzxTQKFBIUb282AzzITp2+f6sA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
+  "projectFilePath": "C:\\Users\\bartlomiej\\source\\repos\\Kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bartlomiej\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\bartlomiej\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

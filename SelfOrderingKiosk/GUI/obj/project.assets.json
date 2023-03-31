@@ -1045,11 +1045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
+      "projectUniqueName": "C:\\Users\\bartlomiej\\source\\repos\\Kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
       "projectName": "GUI",
-      "projectPath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
+      "projectPath": "C:\\Users\\bartlomiej\\source\\repos\\Kiosk\\SelfOrderingKiosk\\GUI\\GUI.csproj",
       "packagesPath": "C:\\Users\\bartlomiej\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\GUI\\obj\\",
+      "outputPath": "C:\\Users\\bartlomiej\\source\\repos\\Kiosk\\SelfOrderingKiosk\\GUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bartlomiej\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1060,14 +1060,15 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "\\\\10.133.108.12\\NuGet\\BTSDocumentsUtils\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "C:\\Users\\bartlomiej\\source\\repos\\self_ordering_kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\bartlomiej\\source\\repos\\Kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\bartlomiej\\source\\repos\\Kiosk\\SelfOrderingKiosk\\DataAccess\\DataAccess.csproj"
             }
           }
         }
