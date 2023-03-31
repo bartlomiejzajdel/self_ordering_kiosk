@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\GUI\obj\Debug\netcoreapp3.1\
+C:\Users\bartlomiej\source\repos\Kiosk\SelfOrderingKiosk\GUI\obj\Debug\netcoreapp3.1\
 GUI
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\bartlomiej\source\repos\self_ordering_kiosk\SelfOrderingKiosk\GUI\App.xaml
+C:\Users\bartlomiej\source\repos\Kiosk\SelfOrderingKiosk\GUI\App.xaml
 6-1501729013
 
 14-980547335
-1961863544034
+1961415270793
 MainWindow.xaml;PaymentWindow.xaml;Views\BurgerView.xaml;Views\DrinksView.xaml;Views\FriesView.xaml;Views\OrderView.xaml;
 
-False
+True
 
